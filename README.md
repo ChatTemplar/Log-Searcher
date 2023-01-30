@@ -1,11 +1,4 @@
- _                ____                      _               
-| |    ___   __ _/ ___|  ___  __ _ _ __ ___| |__   ___ _ __ 
-| |   / _ \ / _` \___ \ / _ \/ _` | '__/ __| '_ \ / _ \ '__|
-| |__| (_) | (_| |___) |  __/ (_| | | | (__| | | |  __/ |  
-|_____\___/ \__, |____/ \___|\__,_|_|  \___|_| |_|\___|_|   
-            |___/                                           
-            
-            
+         
 This is a simple programm that goes through specified .log files, searches for keywords, for example: password and writes them down.
 
 
@@ -18,3 +11,6 @@ This is a simple programm that goes through specified .log files, searches for k
 4.Put the Log file you want to scan in the same folder as the Log-Searcher.py
 
 4.Run the code: python Log-Searcher.py EXAMPLE.log
+
+
+LogSearcher os searches your pc for log files and lists them in a txt file.
